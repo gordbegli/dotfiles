@@ -1,0 +1,33 @@
+// Place your key bindings in this file to override the defaults
+
+[
+    {
+
+        "key": "alt+w",
+
+        "command": "workbench.action.quickOpenPreviousRecentlyUsedEditorInGroup",
+
+        "when": "!inEditorsPicker"
+
+    },
+    {
+
+        "key": "shift+cmd+[",
+
+        "command": "workbench.action.terminal.focusPreviousPane"
+
+    },
+
+    {
+
+        "key": "shift+cmd+]",
+
+        "command": "workbench.action.terminal.focusNextPane"
+
+    },
+
+    {
+        "key": "cmd+l",
+        "command": "workbench.panel.chat.view.copilot.focus"
+    }
+]
