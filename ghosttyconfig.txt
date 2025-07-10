@@ -1,4 +1,0 @@
-term = xterm-256color
-theme = hybrid
-window-padding-x = 20
-window-padding-y = 12
