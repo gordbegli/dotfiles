@@ -2,7 +2,12 @@ set expandtab
 set tabstop=2
 set shiftwidth=2
 
-hi MatchParen cterm=bold ctermbg=none ctermfg=LightCyan
+" MatchParen colors
+if &background ==# 'light'
+  hi MatchParen cterm=bold ctermbg=none ctermfg=DarkBlue guifg=#000080
+else
+  hi MatchParen cterm=bold ctermbg=none ctermfg=LightCyan guifg=#00ffff
+endif
 
 syntax on
 
@@ -13,3 +18,4 @@ augroup TasksInTxt
   autocmd FileType text syntax keyword TodoMarker TODO
   autocmd FileType text highlight TodoMarker ctermfg=Red cterm=bold guifg=#ff0000 gui=bold
 augroup END
+
