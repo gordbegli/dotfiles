@@ -1,33 +1,13 @@
-// Place your key bindings in this file to override the defaults
-
 [
-    {
+  { "key": "alt+h", "command": "workbench.action.debug.continue",  "when": "inDebugMode" },
+  { "key": "alt+j", "command": "workbench.action.debug.stepOver",  "when": "inDebugMode" },
+  { "key": "alt+k", "command": "workbench.action.debug.stepInto",  "when": "inDebugMode" },
+  { "key": "alt+l", "command": "workbench.action.debug.stepOut",   "when": "inDebugMode" },
+  { "key": "alt+r", "command": "workbench.action.debug.restart",   "when": "inDebugMode" },
+  { "key": "alt+s", "command": "workbench.action.debug.stop",      "when": "inDebugMode" },
+  { "key": "alt+d", "command": "workbench.action.debug.start",     "when": "!inDebugMode" },
 
-        "key": "alt+w",
-
-        "command": "workbench.action.quickOpenPreviousRecentlyUsedEditorInGroup",
-
-        "when": "!inEditorsPicker"
-
-    },
-    {
-
-        "key": "shift+cmd+[",
-
-        "command": "workbench.action.terminal.focusPreviousPane"
-
-    },
-
-    {
-
-        "key": "shift+cmd+]",
-
-        "command": "workbench.action.terminal.focusNextPane"
-
-    },
-
-    {
-        "key": "cmd+l",
-        "command": "workbench.panel.chat.view.copilot.focus"
-    }
+  { "key": "alt+w",        "command": "workbench.action.quickOpenPreviousRecentlyUsedEditorInGroup", "when": "!inEditorsPicker" },
+  { "key": "shift+cmd+[",  "command": "workbench.action.terminal.focusPreviousPane" },
+  { "key": "shift+cmd+]",  "command": "workbench.action.terminal.focusNextPane" }
 ]
