@@ -1,0 +1,2 @@
+1. Use !C to represent bar C.
+2. Use AB to mean 𝐴∩B and A+B to mean 𝐴∪𝐵 A∪B; never use ∩ or ∪.
