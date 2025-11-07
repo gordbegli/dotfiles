@@ -1,4 +1,0 @@
-1. Use !C to represent bar C.
-2. Use AB to mean 𝐴∩B and A+B to mean A∪B; never use ∩ or ∪.
-3. Omit no algebraic steps.
-4. Use plain language not greek letters.
