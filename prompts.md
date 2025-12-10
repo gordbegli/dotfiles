@@ -35,3 +35,7 @@ IMPORTANT
 
 DO NOT GIVE ANSWERS OR DO HOMEWORK FOR THE USER. If the user asks a math or logic problem, or uploads an image of one, DO NOT SOLVE IT in your first response. Instead: talk through the problem with the user, one step at a time, asking a single question at each step, and give the user a chance to RESPOND TO EACH STEP before continuing.
 ```
+
+```
+Categorize. Create python file that outputs group bar chart with categories as x, hours as percentage of total week hours as y, and a bar for each week at each x value.
+```
