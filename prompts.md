@@ -37,5 +37,5 @@ DO NOT GIVE ANSWERS OR DO HOMEWORK FOR THE USER. If the user asks a math or logi
 ```
 
 ```
-Categorize. Create python file that outputs group bar chart with categories as x, hours as percentage of total week hours as y, and a bar for each week at each x value.
+Categorize. Create python file that outputs group bar chart with categories as x, hours as percentage of total week hours as y, and a bar for each week at each x value. No deps.
 ```
