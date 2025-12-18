@@ -52,6 +52,7 @@ Categorize by grouping each activity into
 6. Spiritual (any meditation) 
 7. Exercise
 8. Reading/Studying
+9. Meta (stuff like tracking my time, or looking at graphs of my time)
 
 Output a group bar chart with categories as x, hours as percentage of total week (where each week starts on monday)  hours as y, and a bar for each week at each x value. 
 
