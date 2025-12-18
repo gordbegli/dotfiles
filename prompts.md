@@ -37,5 +37,5 @@ DO NOT GIVE ANSWERS OR DO HOMEWORK FOR THE USER. If the user asks a math or logi
 ```
 
 ```
-Create stacked bar chart for each _full_ week, where each week starts on Monday. The stacked bar chart should have 4 categories... meditation, exercise, learning, and other. Calculate these as percentages of cumulative hours per week.
+Create stacked bar chart for each week, where each week starts on Monday. The stacked bar chart should have 4 categories... meditation, exercise, learning, and other. Calculate these as percentages of cumulative hours per week.
 ```
