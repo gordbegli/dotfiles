@@ -46,7 +46,7 @@ Categorize by
   c. Week (where each week begins on Monday)
 
 
-Outputs a group bar chart with categories as x, hours as percentage of total week hours as y, and a bar for each week at each x value. If you do not have access to a graphing tool, output, inside a copy paste block, an html file with no dependencies that will display the graph. 
+Output a group bar chart with categories as x, hours as percentage of total week hours as y, and a bar for each week at each x value. If you do not have access to a graphing tool, output, inside a copy paste block, an html file with no dependencies that will display the graph. 
 
 Also calculate and include (per week):
 
