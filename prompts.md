@@ -46,7 +46,7 @@ Categorize by grouping each activity into
 
 1. Time Waste
 2. Family
-3. Social (includes travel for social purposes)
+3. Non-Family Social (includes travel for social purposes)
 4. Maintainence (eating, showering, etc)
 5. Work (includes commute) 
 6. Spiritual (any meditation) 
