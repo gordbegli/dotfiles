@@ -39,7 +39,9 @@ DO NOT GIVE ANSWERS OR DO HOMEWORK FOR THE USER. If the user asks a math or logi
 ```
 # Create three graphs. 
 
-> If you do not have access to a graphing tool, output, inside a copy paste block, an html file with no dependencies that will display the graphs.
+> If you do not have access to a graphing tool, output, inside a copy paste block, an html file with no dependencies that will display the graphs. 
+
+> Include, at bottom, a key that shows all the actual activies assocaited with each category. 
 
 ## Graph 1
 Categorize by grouping each activity into 
