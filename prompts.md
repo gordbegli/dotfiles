@@ -37,5 +37,19 @@ DO NOT GIVE ANSWERS OR DO HOMEWORK FOR THE USER. If the user asks a math or logi
 ```
 
 ```
-Categorize. Create python file that outputs group bar chart with categories as x, hours as percentage of total week hours as y, and a bar for each week at each x value. No deps.
+Categorize by
+
+1. Looking at all activities and devising an array of categories. 
+2. Creating a list of objects, 1 per entry, where each object has 
+  a. Category from Step 1. 
+  b. Duration (calculated by subtracting "ended at" value from the preceeding "ended at" time. 
+  c. Week (where each week begins on Monday)
+
+
+Outputs a group bar chart with categories as x, hours as percentage of total week hours as y, and a bar for each week at each x value. If you do not have access to a graphing tool, output, inside a copy paste block, an html file with no dependencies that will display the graph. 
+
+Also calculate and include (per week):
+
+1. Average duration of productive activity before transition. 
+2. Average duration of unproductive activity before transition. 
 ```
