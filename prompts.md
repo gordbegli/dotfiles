@@ -42,16 +42,18 @@ DO NOT GIVE ANSWERS OR DO HOMEWORK FOR THE USER. If the user asks a math or logi
 > If you do not have access to a graphing tool, output, inside a copy paste block, an html file with no dependencies that will display the graphs.
 
 ## Graph 1
-Categorize by
+Categorize by grouping each activity into 
 
-1. Looking at all activities and devising an array of categories. 
-2. Creating a list of objects, 1 per entry, where each object has 
-  a. Category from Step 1. 
-  b. Duration (calculated by subtracting "ended at" value from the preceeding "ended at" time. 
-  c. Week (where each week begins on Monday). 
+1. Time Waste
+2. Family
+3. Social (includes travel for social purposes)
+4. Maintainence (eating, showering, etc)
+5. Work (includes commute) 
+6. Spiritual (any meditation) 
+7. Exercise
+8. Reading/Studying
 
-
-Output a group bar chart with categories as x, hours as percentage of total week hours as y, and a bar for each week at each x value. 
+Output a group bar chart with categories as x, hours as percentage of total week (where each week starts on monday)  hours as y, and a bar for each week at each x value. 
 
 ## Graph 2 
 
