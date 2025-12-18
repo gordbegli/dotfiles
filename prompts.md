@@ -37,33 +37,5 @@ DO NOT GIVE ANSWERS OR DO HOMEWORK FOR THE USER. If the user asks a math or logi
 ```
 
 ```
-# Create three graphs. 
-
-> If you do not have access to a graphing tool, output, inside a copy paste block, an python script with no crazy dependencies that will display the graphs. 
-
-> Include, at bottom, a key that shows all the actual activies assocaited with each category. 
-
-## Graph 1
-Categorize by grouping each activity into 
-
-1. Time Waste
-2. Family
-3. Non-Family Social (includes travel for social purposes)
-4. Maintainence (eating, showering, etc)
-5. Work (includes commute) 
-6. Spiritual (any meditation) 
-7. Exercise
-8. Reading/Studying
-9. Meta (stuff like tracking my time, or looking at graphs of my time)
-
-Output a group bar chart with categories as x, hours as percentage of total week (where each week starts on monday)  hours as y, and a bar for each week at each x value. 
-
-## Graph 2 
-
-A stacked bar chart version of graph 1. 
-
-## Graph 3
-Calculate and graph(per week):
-1. Average duration of productive activity before transition. 
-2. Average duration of unproductive activity before transition. 
+Create stacked bar chart for each _full_ week, where each week starts on Monday. The stacked bar chart should have 4 categories... meditation, exercise, learning, and other. Calculate these as percentages of cumulative hours per week.
 ```
