@@ -1,4 +1,30 @@
 {
-  "editor.tabSize": 2,
-  "editor.fontSize": 18
+
+    "git.openRepositoryInParentFolders": "never",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "explorer.confirmDelete": false,
+    "extensions.ignoreRecommendations": true,
+    "window.confirmBeforeClose":"always",
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.tabSize": 2,
+    "editor.fontSize": 16,
+    "diffEditor.renderSideBySide": false,
+    "git.blame.editorDecoration.enabled": false,
+    "git.blame.statusBarItem.enabled": true,
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.colorCustomizations": {
+    "terminal.integrated.scrollback": 1000000,
+    "terminal.findMatchBackground": "#FF0000",
+    "terminal.findMatchBorder": "#FF0000",
+    "terminal.findMatchHighlightBackground": "#00FF00",
+    "terminal.findMatchHighlightBorder": "#00FF00",
+    "terminalOverviewRuler.findMatchForeground": "#FF0000"
+},
+"chat.disableAIFeatures": true
 }
