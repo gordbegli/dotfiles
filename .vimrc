@@ -1,7 +1,4 @@
-syntax on
-set re=0
-
-" Indentation 
+" Set indentation preferences
 set expandtab
 set tabstop=2
 set shiftwidth=2
@@ -9,7 +6,8 @@ set shiftwidth=2
 " Highlight matching parentheses
 hi MatchParen cterm=bold ctermbg=none ctermfg=LightCyan guifg=#00ffff
 
-" Stop Erroneous MathJax Error Highlighting
+" preventing it from visually "fucking up" your MathJax.
 hi link markdownError Normal
 
+set re=0
 
