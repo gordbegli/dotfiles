@@ -1,3 +1,6 @@
+filetype plugin indent on
+set autoindent
+set smartindent
 syntax on
 set expandtab
 set tabstop=2
