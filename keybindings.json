@@ -16,5 +16,5 @@
   { "key": "shift+alt+]", "command": "workbench.action.terminal.focusNextPane" },
   { "key": "cmd+shift+d", "command": "workbench.action.splitEditorDown" },
   { "key": "cmd+d", "command": "workbench.action.splitEditorRight" },
-  { "key": "cmd+enter", "command": "workbench.action.toggleMaximizeEditorGroup" }
+  { "key": "cmd+shift+enter", "command": "workbench.action.toggleMaximizeEditorGroup" }
 ]
