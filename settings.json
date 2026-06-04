@@ -27,7 +27,9 @@
     "editor.parameterHints.enabled": false,
     "editor.wordBasedSuggestions": "off",
     "python.suggest.enabled": false,
+    "python.terminal.activateEnvironment": false,
     "ts.suggest.enabled": false,
     "js.suggest.enabled": false,
-    "chat.disableAIFeatures": true
+    "chat.disableAIFeatures": true,
+    "workbench.colorTheme": "Solarized Light"
 }
