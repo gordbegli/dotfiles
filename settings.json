@@ -27,5 +27,6 @@
     "python.terminal.activateEnvironment": false,
     "chat.disableAIFeatures": true,
     "window.density.editorTabHeight": "compact",
+    "workbench.activityBar.location": "top",
     "workbench.colorTheme": "Solarized Light"
 }
