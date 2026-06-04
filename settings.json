@@ -23,13 +23,7 @@
         "terminalOverviewRuler.findMatchForeground": "#FF0000"
     },
     "terminal.integrated.scrollback": 1000000,
-    "editor.inlineSuggest.enabled": false,
-    "editor.parameterHints.enabled": false,
-    "editor.wordBasedSuggestions": "off",
-    "python.suggest.enabled": false,
     "python.terminal.activateEnvironment": false,
-    "ts.suggest.enabled": false,
-    "js.suggest.enabled": false,
     "chat.disableAIFeatures": true,
     "workbench.colorTheme": "Solarized Light"
 }
