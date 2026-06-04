@@ -26,5 +26,6 @@
     "terminal.integrated.confirmOnKill": "never",
     "python.terminal.activateEnvironment": false,
     "chat.disableAIFeatures": true,
+    "window.density.editorTabHeight": "compact",
     "workbench.colorTheme": "Solarized Light"
 }
