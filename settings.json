@@ -1,10 +1,10 @@
 {
     "git.openRepositoryInParentFolders": "never",
-    "[typescriptreact]": { 
-        "editor.defaultFormatter": "vscode.typescript-language-features" 
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
     },
-    "[json]": { 
-        "editor.defaultFormatter": "vscode.json-language-features" 
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
     },
     "explorer.confirmDelete": false,
     "extensions.ignoreRecommendations": true,
@@ -32,5 +32,7 @@
     "workbench.browser.showInTitleBar": true,
     "window.commandCenter": true,
     "workbench.layoutControl.enabled": true,
-    "workbench.editor.editorActionsLocation": "titleBar"
+    "workbench.editor.editorActionsLocation": "titleBar",
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 16
 }
