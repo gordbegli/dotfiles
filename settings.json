@@ -28,5 +28,9 @@
     "chat.disableAIFeatures": true,
     "window.density.editorTabHeight": "compact",
     "workbench.activityBar.location": "top",
-    "workbench.colorTheme": "Solarized Light"
+    "workbench.colorTheme": "Solarized Light",
+    "workbench.browser.showInTitleBar": true,
+    "window.commandCenter": true,
+    "workbench.layoutControl.enabled": true,
+    "workbench.editor.editorActionsLocation": "titleBar"
 }
