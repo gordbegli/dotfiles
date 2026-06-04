@@ -23,6 +23,7 @@
         "terminalOverviewRuler.findMatchForeground": "#FF0000"
     },
     "terminal.integrated.scrollback": 1000000,
+    "terminal.integrated.confirmOnKill": "never",
     "python.terminal.activateEnvironment": false,
     "chat.disableAIFeatures": true,
     "workbench.colorTheme": "Solarized Light"
