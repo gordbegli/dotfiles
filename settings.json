@@ -1,10 +1,14 @@
 {
     "git.openRepositoryInParentFolders": "never",
-    "[typescriptreact]": { "editor.defaultFormatter": "vscode.typescript-language-features" },
-    "[json]": { "editor.defaultFormatter": "vscode.json-language-features" },
+    "[typescriptreact]": { 
+        "editor.defaultFormatter": "vscode.typescript-language-features" 
+    },
+    "[json]": { 
+        "editor.defaultFormatter": "vscode.json-language-features" 
+    },
     "explorer.confirmDelete": false,
     "extensions.ignoreRecommendations": true,
-    "window.confirmBeforeClose":"always",
+    "window.confirmBeforeClose": "always",
     "editor.gotoLocation.multipleDefinitions": "goto",
     "editor.tabSize": 2,
     "diffEditor.renderSideBySide": false,
@@ -12,13 +16,18 @@
     "git.blame.statusBarItem.enabled": true,
     "workbench.startupEditor": "none",
     "workbench.colorCustomizations": {
+        "terminal.findMatchBackground": "#FF0000",
+        "terminal.findMatchBorder": "#FF0000",
+        "terminal.findMatchHighlightBackground": "#00FF00",
+        "terminal.findMatchHighlightBorder": "#00FF00",
+        "terminalOverviewRuler.findMatchForeground": "#FF0000"
+    },
     "terminal.integrated.scrollback": 1000000,
-    "terminal.findMatchBackground": "#FF0000",
-    "terminal.findMatchBorder": "#FF0000",
-    "terminal.findMatchHighlightBackground": "#00FF00",
-    "terminal.findMatchHighlightBorder": "#00FF00",
-    "terminalOverviewRuler.findMatchForeground": "#FF0000"
-},
-"chat.disableAIFeatures": true
+    "editor.inlineSuggest.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "editor.wordBasedSuggestions": "off",
+    "python.suggest.enabled": false,
+    "ts.suggest.enabled": false,
+    "js.suggest.enabled": false,
+    "chat.disableAIFeatures": true
 }
-
