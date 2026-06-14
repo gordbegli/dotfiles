@@ -20,7 +20,11 @@
         "terminal.findMatchBorder": "#FF0000",
         "terminal.findMatchHighlightBackground": "#00FF00",
         "terminal.findMatchHighlightBorder": "#00FF00",
-        "terminalOverviewRuler.findMatchForeground": "#FF0000"
+        "terminalOverviewRuler.findMatchForeground": "#FF0000",
+        "editorError.foreground": "#00000000",
+        "editorWarning.foreground": "#00000000",
+        "editorInfo.foreground": "#00000000",
+        "editorHint.foreground": "#00000000"
     },
     "terminal.integrated.scrollback": 1000000,
     "terminal.integrated.confirmOnKill": "never",
@@ -28,11 +32,12 @@
     "chat.disableAIFeatures": true,
     "window.density.editorTabHeight": "compact",
     "workbench.activityBar.location": "top",
-    "workbench.colorTheme": "Solarized Light",
     "workbench.browser.showInTitleBar": true,
     "window.commandCenter": true,
     "workbench.layoutControl.enabled": true,
     "workbench.editor.editorActionsLocation": "titleBar",
     "editor.fontSize": 16,
-    "terminal.integrated.fontSize": 16
+    "terminal.integrated.fontSize": 16,
+    "workbench.colorTheme": "Solarized Light",
+    "terminal.integrated.initialHint": false
 }
