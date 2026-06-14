@@ -39,5 +39,7 @@
     "editor.fontSize": 16,
     "terminal.integrated.fontSize": 16,
     "workbench.colorTheme": "Solarized Light",
-    "terminal.integrated.initialHint": false
+    "terminal.integrated.initialHint": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
 }
