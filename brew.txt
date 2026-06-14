@@ -1,0 +1,7 @@
+anki
+font-fira-code
+google-chrome
+obsidian
+opencode
+openmtp
+visual-studio-code
