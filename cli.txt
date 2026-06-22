@@ -1,3 +1,2 @@
 delta
 rg
-fzf
