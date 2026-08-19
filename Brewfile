@@ -1,7 +1,11 @@
+# Command-line fuzzy finder written in Go
+brew "fzf"
 # Distributed revision control system
 brew "git"
 # Syntax-highlighting pager for git and diff output
 brew "git-delta"
+# LLM inference in C/C++
+brew "llama.cpp"
 # Swiss-army knife of markup format conversion
 brew "pandoc"
 # AI agent toolkit
