@@ -21,4 +21,3 @@ cask "openmtp"
 # Open-source code editor
 cask "visual-studio-code"
 vscode "vscodevim.vim"
-vscode "ziglang.vscode-zig"

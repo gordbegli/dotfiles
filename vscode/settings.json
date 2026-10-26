@@ -1,5 +1,4 @@
 {
-    "zig.zls.enabled": "off",
     "git.openRepositoryInParentFolders": "never",
     "[typescriptreact]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
