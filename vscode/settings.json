@@ -36,6 +36,5 @@
     "editor.fontSize": 16,
     "terminal.integrated.fontSize": 16,
     "workbench.colorTheme": "Solarized Light",
-    "terminal.integrated.commandsToSkipShell": ["-workbench.action.toggleSidebarVisibility"],
-    "terminal.integrated.commandsToSkipShell": ["workbench.action.createTerminalEditorSameGroup"]
+    "terminal.integrated.commandsToSkipShell": ["-workbench.action.toggleSidebarVisibility", "workbench.action.createTerminalEditorSameGroup"]
 }
