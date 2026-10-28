@@ -1,7 +1,6 @@
 [
   // ⌥⌘C: Toggle Case-Sensitive Search
   // ⌥⌘W: Toggle Search for Whole Word
-  
   { "key": "cmd+e", "command": "workbench.action.debug.continue", "when": "inDebugMode" },
   { "key": "cmd+l", "command": "workbench.action.debug.stepOver", "when": "inDebugMode" },
   { "key": "cmd+j", "command": "workbench.action.debug.stepInto", "when": "inDebugMode" },
@@ -16,25 +15,10 @@
   { "key": "shift+alt+[", "command": "workbench.action.terminal.focusPreviousPane" },
   { "key": "shift+alt+]", "command": "workbench.action.terminal.focusNextPane" },
   { "key": "cmd+shift+enter", "command": "workbench.action.toggleMaximizeEditorGroup" },
-  { "key": "alt+t", "command": "workbench.action.createTerminalEditor" },
-  {
-    "key": "cmd+shift+d",
-    "command": "runCommands",
-    "args": {
-      "commands": [
-        "workbench.action.newGroupBelow",
-        "workbench.action.createTerminalEditor"
-      ]
-    }
-  },
-  {
-    "key": "cmd+d",
-    "command": "runCommands",
-    "args": {
-      "commands": [
-        "workbench.action.newGroupRight",
-        "workbench.action.createTerminalEditor"
-      ]
-    }
-  }
+  { "key": "alt+t", "command": "workbench.action.createTerminalEditorSameGroup" },
+  { "key": "alt+r", "command": "workbench.action.terminal.rename", "when": "terminalFocus" },
+  { "key": "cmd+shift+d", "command": "runCommands",
+    "args": {"commands": ["workbench.action.newGroupBelow","workbench.action.createTerminalEditor"]}},
+  { "key": "cmd+d","command": "runCommands",
+    "args": {"commands": ["workbench.action.newGroupRight","workbench.action.createTerminalEditor"]}}
 ]

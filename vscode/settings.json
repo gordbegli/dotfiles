@@ -1,21 +1,7 @@
 {
     "git.openRepositoryInParentFolders": "never",
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "[plaintext]": {
-        "editor.quickSuggestions": {
-            "other": "off",
-            "comments": "off",
-            "strings": "off"
-        },
-        "editor.suggestOnTriggerCharacters": false,
-        "editor.wordBasedSuggestions": "off",
-        "editor.inlineSuggest.enabled": false
-    },
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
+    "[typescriptreact]": {"editor.defaultFormatter": "vscode.typescript-language-features"},
+    "[json]": { "editor.defaultFormatter": "vscode.json-language-features"},
     "explorer.confirmDelete": false,
     "extensions.ignoreRecommendations": true,
     "window.confirmBeforeClose": "always",
@@ -38,6 +24,7 @@
     },
     "terminal.integrated.scrollback": 1000000,
     "terminal.integrated.confirmOnKill": "never",
+    "terminal.integrated.enableImages": true,
     "python.terminal.activateEnvironment": false,
     "chat.disableAIFeatures": true,
     "window.density.editorTabHeight": "compact",
@@ -49,4 +36,6 @@
     "editor.fontSize": 16,
     "terminal.integrated.fontSize": 16,
     "workbench.colorTheme": "Solarized Light",
+    "terminal.integrated.commandsToSkipShell": ["-workbench.action.toggleSidebarVisibility"],
+    "terminal.integrated.commandsToSkipShell": ["workbench.action.createTerminalEditorSameGroup"]
 }
