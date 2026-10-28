@@ -6,6 +6,8 @@ brew "llama.cpp"
 brew "pandoc"
 # AI agent toolkit
 brew "pi-coding-agent"
+# Terminal multiplexer
+brew "tmux"
 # Extremely fast Python package installer and resolver, written in Rust
 brew "uv"
 # Memory training application
